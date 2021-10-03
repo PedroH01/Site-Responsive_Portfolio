@@ -17,7 +17,7 @@ A aplicação é uma apresentação do meu currículo como programador até o mo
 
 # Autor
 
-(Créditos ao canal "BedimCode" no YouTube de onde foi retirado o tutorial)
+(Todos os direitos ao canal "BedimCode" no YouTube de onde foi retirado o tutorial)
 
 Pedro Henrique Silva Bonfim
 
